@@ -11,4 +11,10 @@
 
 
 -- write your sql code here
+-- Select Country from countries ORDER BY Population DESC LIMIT 10;
+-- SELECT Country from countries ORDER BY AreaSqMi ASC LIMIT 5;
+-- SELECT Country from countries  WHERE Continent='Europe' ORDER BY AreaSqMi DESC LIMIT 1;
+-- SELECT Country from countries  WHERE Continent='Africa' ORDER BY AreaSqMi ASC LIMIT 3;
+-- SELECT Country from countries  WHERE Country LIKE 'C%' ORDER BY GDPPerCapita DESC LIMIT 3;
+Se
 
